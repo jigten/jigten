@@ -5,7 +5,7 @@
 -  🎓 Bachelors of Computer Science
 - :seedling: I strive to learn something new everyday. Currently reading [CSAPP](http://csapp.cs.cmu.edu/3e/home.html) & [The Algorithm Design Manual](https://www.algorist.com/)
 - :zap: I enjoy solving problems on [LeetCode](https://leetcode.com/jigt4n/)
-### :hammer_and_wrench: Teah Stack:
+### :hammer_and_wrench: Tech Stack:
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
