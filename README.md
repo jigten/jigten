@@ -5,6 +5,7 @@
 -  🎓 Bachelors of Computer Science
 - :seedling: I strive to learn something new everyday. Currently reading [CSAPP](http://csapp.cs.cmu.edu/3e/home.html) & [The Algorithm Design Manual](https://www.algorist.com/)
 - :zap: I enjoy solving problems on [LeetCode](https://leetcode.com/jigt4n/)
+- 📝 Find my portfolio and blog [here](https://jigten.netlify.app/)
 ### :hammer_and_wrench: Tech Stack:
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
