@@ -25,5 +25,5 @@
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Webpack-informational?style=flat&logo=webpack&logoColor=white&color=blue)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigten&exclude_repo=Discovering-Disease-Outbreaks-from-News&layout=compact&theme=cobalt2&hide=html&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigten&exclude_repo=Discovering-Disease-Outbreaks-from-News,exercism-solutions&layout=compact&theme=cobalt2&hide=html&langs_count=6)
 
