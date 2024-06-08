@@ -1,7 +1,7 @@
 
 ## Hi I'm Jigten 👋
 ### 🧑🏻‍💻 About Me:
-- :telescope: I am a **Software Engineer** in **Backend** and **Data Engineering**
+- :telescope: I am a **Full-stack Software Engineer**
 -  🎓 Bachelors of Computer Science
 - :seedling: I strive to learn something new everyday. Currently reading [CSAPP](http://csapp.cs.cmu.edu/3e/home.html) & [The Algorithm Design Manual](https://www.algorist.com/)
 - :zap: I enjoy solving problems on [LeetCode](https://leetcode.com/jigt4n/)
