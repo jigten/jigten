@@ -10,8 +10,7 @@
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=blue)
-![](https://img.shields.io/badge/scala-informational?style=flat&logo=scala&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=blue)
 <br>
 ![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=blue)
